@@ -1,0 +1,3 @@
+tk
+pymupdf
+Pillow
