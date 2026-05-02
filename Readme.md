@@ -20,7 +20,7 @@ A simple assistant to merge front and back sides of scanned documents.
 2. Clone the repository:
    ```sh
    git clone https://github.com/anmarchio/duplexmerger.git
-   cd duplex-merger
+   cd duplexmerger
    ```
 3. Install dependencies:
    ```sh
